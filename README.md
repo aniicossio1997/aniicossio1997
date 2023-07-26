@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭I'm Ana Cossio and I'm currently working on Fiscalia de Estado -> Angular | Net Core | Sql Server. <br> But I like working with nestjs and react 😅
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-cossio-50649710a/) [![Portafolio](https://img.shields.io/badge/Potafolio-d53f8c)](https://www.linkedin.com/in/ana-cossio-50649710a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-cossio-50649710a/) [![Portafolio](https://img.shields.io/badge/Potafolio-d53f8c)](https://my-portfolio-git-main-aniicossio1997.vercel.app/) 
 
 # 💻 Tech Stack:
 
